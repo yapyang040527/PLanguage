@@ -13,7 +13,8 @@ HW2:"https://colab.research.google.com/drive/13xW2u-peaFYR2_hHUtycuiEsGB9d8CIt?u
 HW3:"https://colab.research.google.com/drive/1OdnxMkVyoTprCCEHpucuCfZRRysUBYne#scrollTo=AVRgsRQXgtU5"
 助教很對不起 我遲交了 希望助教能補改 謝謝助教 很不好意思
 
-HW4:
+HW4:"https://colab.research.google.com/drive/1XknOo4qenAsIKG6vuh9gE-bD5K36I7sx#scrollTo=CTAYigQL8LRW"
+助教很對不起 我遲交了 希望助教能補改 謝謝助教 很不好意思
 
 HW5:
 
