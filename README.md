@@ -14,6 +14,7 @@ HW3:"https://colab.research.google.com/drive/1OdnxMkVyoTprCCEHpucuCfZRRysUBYne#s
 助教很對不起 我遲交了 希望助教能補改 謝謝助教 很不好意思
 
 HW4:"https://colab.research.google.com/drive/1XknOo4qenAsIKG6vuh9gE-bD5K36I7sx#scrollTo=CTAYigQL8LRW"
+-https://docs.google.com/spreadsheets/d/1TpkBviJefgdtqCnVJ8TAaQEozlX98fxWPhCKBcdmrmU/edit?usp=sharing
 助教很對不起 我遲交了 希望助教能補改 謝謝助教 很不好意思
 
 HW5:
