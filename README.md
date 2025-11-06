@@ -11,6 +11,7 @@ HW1:"https://colab.research.google.com/github/yapyang040527/Yang1141/blob/main/H
 HW2:"https://colab.research.google.com/drive/13xW2u-peaFYR2_hHUtycuiEsGB9d8CIt?usp=sharing"
 
 HW3:"https://colab.research.google.com/drive/1OdnxMkVyoTprCCEHpucuCfZRRysUBYne#scrollTo=AVRgsRQXgtU5"
+助教很對不起 我遲交了 希望助教能補改 謝謝助教 很不好意思
 
 HW4:
 
