@@ -17,4 +17,4 @@ HW4:"https://colab.research.google.com/drive/1XknOo4qenAsIKG6vuh9gE-bD5K36I7sx#s
 
 HW5:"https://colab.research.google.com/drive/11Je1d-Q-GpFM3TA5EL-xbZO3GMo_zqAS?usp=sharing"
 
-HW6:
+HW6:"https://colab.research.google.com/drive/1p4fSDbFn3XoTp8UjPEVpE79omokvV92Y#scrollTo=PI2A-C__O1cx"
